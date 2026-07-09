@@ -30,9 +30,9 @@ Football commentary is full of role labels — "the engine," "the destroyer," "t
 
 ## Example output
 
-```
-![Team pitch visualization](images/Visualization.jpg)
-```
+
+![Team pitch visualization](Visualization.jpg)
+
 
 ## Tech stack
 
